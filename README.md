@@ -1,4 +1,8 @@
-# Dokumentasi Alur Komunikasi DES Manual V3
+# Dokumentasi Alur Komunikasi DES Manual
+
+| Nama | NRP |
+|---|---|
+| Naufal Dariskarim | 5025231027 |
 
 ## Cakupan
 
